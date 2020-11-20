@@ -1,3 +1,4 @@
+### `@rozzzly/babel-plugin-extension-resolver` is a temporary scoped version of [`babel-plugin-module-extension-resolver`](https://github.com/shimataro/babel-plugin-module-extension-resolver) for use until [#76](https://github.com/shimataro/babel-plugin-module-extension-resolver/pull/76) gets merged.
 # babel-plugin-module-extension-resolver
 
 [![Build Status (Windows)][image-build-windows]][link-build-windows]

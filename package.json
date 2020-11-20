@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-module-extension-resolver",
+  "name": "@rozzzly/babel-plugin-module-extension-resolver",
   "version": "1.0.0-rc.1",
   "description": "Babel plugin that resolves and maps module extensions.",
   "keywords": [
